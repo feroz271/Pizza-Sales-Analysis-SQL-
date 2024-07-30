@@ -11,9 +11,12 @@ The objective of this project is to analyze pizza sales data to derive actionabl
 
 • Order Data: [data/orders.csv](https://github.com/feroz271/Pizza-Sales-Analysis-SQL-/blob/main/DATA/orders.csv) - Contains records of each pizza order.
 
-• Order Details: data/order_details.csv - Includes details of the items within each order.
-[
-• Pizzas Information: data/pizzas.csv](https://github.com/feroz271/Pizza-Sales-Analysis-SQL-/blob/main/DATA/pizzas.csv) - Information on different pizza offerings.
+
+• Order Details:[ data/order_details.csv](https://github.com/feroz271/Pizza-Sales-Analysis-SQL-/blob/main/DATA/order_details.csv) - Includes details of the items within each order.
+
+
+• Pizzas Information:[  data/pizzas.csv](https://github.com/feroz271/Pizza-Sales-Analysis-SQL-/blob/main/DATA/pizzas.csv) - Information on different pizza offerings.
+
 
 • Pizza Types: [data/pizza_types.csv](https://github.com/feroz271/Pizza-Sales-Analysis-SQL-/blob/main/DATA/pizza_types.csv) - Classification and types of pizzas available.
 
@@ -47,7 +50,7 @@ The objective of this project is to analyze pizza sales data to derive actionabl
 
 • Insightful Analysis: Gained experience in translating data into actionable business insights and visualizing patterns.
 
-📜 License
+# 📜 License
 
 This project is licensed under the MIT License.
 
