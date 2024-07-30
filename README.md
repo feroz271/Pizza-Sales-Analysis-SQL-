@@ -20,15 +20,43 @@ The objective of this project is to analyze pizza sales data to derive actionabl
 
 • Pizza Types: [data/pizza_types.csv](https://github.com/feroz271/Pizza-Sales-Analysis-SQL-/blob/main/DATA/pizza_types.csv) - Classification and types of pizzas available.
 
-# 💻 SQL Scripts
+# 📊 Data Analysis
 
-• Table Creation: sql/create_tables.sql - Script for creating the necessary database tables.
+This project involves a comprehensive analysis of pizza sales data through various SQL queries. The analysis includes:
 
-• Basic Analysis: sql/basic_analysis.sql - Queries to perform fundamental analysis.
+• Order Metrics: Calculating the total number of orders and overall revenue. 
 
-• Intermediate Analysis: sql/intermediate_analysis.sql - Queries for deeper insights and distribution metrics.
+• Pizza Insights: Identifying the highest-priced pizza, the most common pizza sizes, and the top pizza types by quantity and revenue.
 
-• Advanced Analysis: sql/advanced_analysis.sql - Queries for advanced analysis, including revenue trends and contributions.
+• Order Distribution: Analyzing the distribution of orders by hour of the day.
+
+• evenue Analysis: Assessing the percentage contribution of each pizza type to total revenue and evaluating cumulative revenue trends over time.
+
+# Questions Addressed
+
+• What is the total number of orders placed?
+
+• What is the total revenue generated from pizza sales?
+
+• Which pizza is the highest-priced?
+
+• What is the most common pizza size ordered?
+
+• What are the top 5 most ordered pizza types and their quantities?
+
+• What is the distribution of orders by hour of the day?
+
+• What is the category-wise distribution of pizzas?
+
+• What is the average number of pizzas ordered per day?
+
+• What are the top 3 most ordered pizza types based on revenue?
+
+• What is the percentage contribution of each pizza type to total revenue?
+
+• How has revenue accumulated over time?
+
+• What are the top 3 most ordered pizza types based on revenue for each pizza category?
 
 # 🔍 Key Findings
 
@@ -50,9 +78,12 @@ The objective of this project is to analyze pizza sales data to derive actionabl
 
 • Insightful Analysis: Gained experience in translating data into actionable business insights and visualizing patterns.
 
-# 📜 License
 
-This project is licensed under the MIT License.
+# 📄 Documentation
+
+
+For a detailed overview of the project and analysis, please refer to the[ PDF Documentation ](https://github.com/feroz271/Pizza-Sales-Analysis-SQL-/blob/main/pizza%20sales%20analysis.pdf.pdf).
+ 
 
 # 👤 Author
 
